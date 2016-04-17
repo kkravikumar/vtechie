@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//resources/test/sampleApplicationDataJSON.txt=UTF-8
+encoding//resources/test/sampleApplicationDataJSON_connected.txt=UTF-8
+encoding//src/com/mastercard/mcwallet/sdk/MasterPassService.java=UTF-8
